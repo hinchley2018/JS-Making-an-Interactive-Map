@@ -8,3 +8,6 @@ This project is meant to be completed independently. The code here may be used a
 * Get the user's current location.  
 * Map that location on a Leaflet map.  
 * Allow the user to select a business type from a select list and map the 5 nearest locations on the same map using the Foursquare API.
+
+# Contributors
+- Jonathon Hinchley
